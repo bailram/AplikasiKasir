@@ -5,6 +5,7 @@ Aplikasi kasir sederhana android yang dibangun menggunakan bahasa kotlin dan men
 - Menambahkan produk yang akan dijual (hanya bisa dilakukan jika total harga > 0)
 - Melihat riwayat transaksi
 - Melihat detail transaksi
+- Konversi angka menjadi format mata uang IDR
 
 ### Cara Penggunaan
 1. clone repo
